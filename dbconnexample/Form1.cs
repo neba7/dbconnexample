@@ -13,7 +13,7 @@ namespace dbconnexample
 {
     public partial class Form1 : Form
     {
-        private string connstring = "Server=localhost;Database=crud;User Id=neba;Password=1995777828";
+        private string connstring = "Server=localhost;Database=mysql_dbname;User Id=mysql_username;Password=mysql_password";
         private db newdb3;
         public Form1()
         {
